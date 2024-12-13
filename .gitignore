@@ -1,6 +1,4 @@
 .ipynb_checkpoints/
-data/visits.json
-data/registrations.json
 tmp*
 temp*
 
